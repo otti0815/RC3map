@@ -189,7 +189,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"..\/Base Tiles for Testing.png",
+         "image":"/Base Tiles for Testing.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -202,7 +202,7 @@
         {
          "columns":1,
          "firstgid":101,
-         "image":"..\/ballbath.png",
+         "image":"/ballbath.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -215,7 +215,7 @@
         {
          "columns":1,
          "firstgid":102,
-         "image":"..\/ballbath.png",
+         "image":"/ballbath.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
