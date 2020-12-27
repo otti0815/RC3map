@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#startOut"
+                 "value":"/erfas-south.json#start_dev-base"
                 }],
          "type":"tilelayer",
          "visible":true,
