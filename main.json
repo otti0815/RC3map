@@ -235,7 +235,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>/erfas-south.json#start_dev-base"
+                 "value":"{<lobby>/maps/erfas-south.json#start_dev-base}"
                 }],
          "type":"tilelayer",
          "visible":true,
