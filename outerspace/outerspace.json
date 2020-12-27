@@ -38,7 +38,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>/erfas-south.json#start_dev-base}"
+                 "value":"https://lobby.maps.at.rc3.world/\/maps\/erfas-south.json#start_dev-base"
                 }],
          "type":"tilelayer",
          "visible":true,
