@@ -74,7 +74,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/stream.sunshine-live.de\/90er\/mp3-128\/stream.sunshine-live.de\/"
+                 "value":"https:\/\/stream.sunshine-live.de\/daftpunk\/mp3-128\/stream.sunshine-live.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -95,7 +95,7 @@
                  "value":"https:\/\/stream.sunshine-live.de\/90er\/mp3-192\/stream.sunshine-live.de\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
