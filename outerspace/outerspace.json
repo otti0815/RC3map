@@ -41,7 +41,7 @@
                  "value":"https:\/\/lobby.maps.at.rc3.world\/\/maps\/erfas-south.json#start_dev-base"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -59,7 +59,7 @@
                  "value":"..\/main.json#startOut"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -72,17 +72,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/36YnV9STBqc?autoplay=1"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https:\/\/stream.sunshine-live.de\/ade18dance\/mp3-192\/stream.sunshine-live.de\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -106,7 +101,7 @@
          "name":"Objects",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
