@@ -23,7 +23,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -38,10 +38,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https://lobby.maps.at.rc3.world/\/maps\/erfas-south.json#start_dev-base"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/\/maps\/erfas-south.json#start_dev-base"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -59,7 +59,7 @@
                  "value":"..\/main.json#startOut"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -70,6 +70,17 @@
          "id":8,
          "name":"audio",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/qWf-FPFmVw0?autoplay=0"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -83,7 +94,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -95,7 +106,7 @@
          "name":"Objects",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -107,7 +118,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -118,7 +129,7 @@
          "name":"Objects2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -130,7 +141,7 @@
          "name":"Objects3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
