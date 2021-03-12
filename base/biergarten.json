@@ -19,7 +19,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"BiergartenNO26"
+                 "value":"gartenNO26"
                 }],
          "type":"tilelayer",
          "visible":true,
